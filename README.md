@@ -3,13 +3,11 @@
 
 - 🔭 I’m currently working on **Private Projects**
 
-- 🌱 I’m currently learning **ASP .NET, Swift and learning from DEV.F**
+- 🌱 I’m currently learning **Laravel, React, Vue and Python**
 
 - 💬 Ask me about **MAUI Blazor, Laravel**
 
 - 📫 How to reach me **gion340@gmail.com**
-
-- ⚡ Fun fact **I'm a musician and a Real Madrid fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
